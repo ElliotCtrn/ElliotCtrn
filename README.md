@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ElliotCtrn
 - 👀 I’m interested in IT and building computers
+- Aiming for a career in Cybersecurity as a SOC Analyst
 - 🌱 I’m currently learning Python, SQL and Cybersecurity
 - 📫 How to reach me - e-mail: elliot.cetran@hotmail.com
 
